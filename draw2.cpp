@@ -5,9 +5,32 @@
 #include "draw2.h"
 #include <vector>
 #include <cstdio>
+#include <string>
+#include <gdiplus.h>
 
 #define MAX_LOADSTRING 100
 #define TMR_1 1
+#define ID_LEVEL5BUTTON1				220
+#define ID_LEVEL5BUTTON2				221
+#define ID_LEVEL5BUTTON3				222
+#define ID_LEVEL5BUTTON4				223
+#define ID_LEVEL4BUTTON1				224
+#define ID_LEVEL4BUTTON2				231
+#define ID_LEVEL4BUTTON3				232
+#define ID_LEVEL4BUTTON5				233
+#define ID_LEVEL3BUTTON1				234
+#define ID_LEVEL3BUTTON2				235
+#define ID_LEVEL3BUTTON4				236
+#define ID_LEVEL3BUTTON5				237
+#define ID_LEVEL2BUTTON1				238
+#define ID_LEVEL2BUTTON3				239
+#define ID_LEVEL2BUTTON4				240
+#define ID_LEVEL2BUTTON5				241
+#define ID_LEVEL1BUTTON2				242
+#define ID_LEVEL1BUTTON3				243
+#define ID_LEVEL1BUTTON4				244
+#define ID_LEVEL1BUTTON5				245
+#define TMR_winda 226
 
 // Global Variables:
 HINSTANCE hInst;								// current instance
