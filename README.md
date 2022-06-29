@@ -11,7 +11,7 @@ We started out by creating a typical C++ file that supports WinAPI and GDI+.
 The first task was to draw the startup screen. We scaled the window so that our entire elevator was visible, and we measured the floors so that there was room for walking passengers. We used double buffering to make smooth animations. Then we programmed a queue. 
 After putting it all together, we got the following program.
 
-//zdjęcie wyglądu gui
+![image](https://user-images.githubusercontent.com/106469243/176541068-8c6c825f-5a4b-4ec5-9106-fb528e1c2a60.png)
 
 Buttons send information where passenger is waiting and where he want to go, just like in real situation. <br/>
 Queue is made of the people waiting. Their starting point and destination point helps to set the positions in queue. <br/>
