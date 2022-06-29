@@ -1,0 +1,11 @@
+﻿  draw2.cpp
+C:\Users\sebol\Desktop\Winda prodzekt\draw\draw2.cpp(115,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\sebol\Desktop\Winda prodzekt\draw\draw2.cpp(131,33): warning C4244: "argument": konwersja z "double" do "INT", możliwa utrata danych
+C:\Users\sebol\Desktop\Winda prodzekt\draw\draw2.cpp(140,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\sebol\Desktop\Winda prodzekt\draw\draw2.cpp(155,33): warning C4244: "argument": konwersja z "double" do "INT", możliwa utrata danych
+C:\Users\sebol\Desktop\Winda prodzekt\draw\draw2.cpp(379,8): warning C4101: "hfntOld": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\sebol\Desktop\Winda prodzekt\draw\draw2.cpp(745,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\sebol\Desktop\Winda prodzekt\draw\draw2.cpp(806,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\sebol\Desktop\Winda prodzekt\draw\draw2.cpp(431,6): warning C4101: "Memhdc": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\sebol\Desktop\Winda prodzekt\draw\draw2.cpp(432,10): warning C4101: "Membitmap": lokalna zmienna, do której nie istnieje odwołanie
+  draw.vcxproj -> C:\Users\sebol\Desktop\Winda prodzekt\Debug\draw2.exe
