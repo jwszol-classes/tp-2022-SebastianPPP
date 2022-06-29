@@ -12,3 +12,12 @@ The first task was to draw the startup screen. We scaled the window so that our 
 After putting it all together, we got the following program.
 
 //zdjęcie wyglądu gui
+
+Buttons send information where passenger is waiting and where he want to go, just like in real situation.
+Queue is made of the people waiting. Their starting point and destination point helps to set the positions in queue. 
+Elevator is moving based on the queue.
+Mass is being added when passenger is in the elevator and removed when he reach his destination. 
+Floors are just "drawLined" in the window.
+Passenger is a bitmap added to the code.
+If queue is empty for 5 seconds, it will guide our elevator to the lowest level.
+Max. mass possible is 700 kg (8 passengers 60kg each)
