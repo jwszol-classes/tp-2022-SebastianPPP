@@ -22,6 +22,6 @@ Passenger is a bitmap added to the code. <br/>
 If queue is empty for 5 seconds, it will guide our elevator to the lowest level. <br/>
 Max. mass possible is 600 kg (8 passengers 70kg each). <br/>
 
-Division of work
-Kamil: passenger artwork, queue system, elevator function, myOnPaint function.
-Sebastian: double buffer, buttons, drawings, text, Paint function, weight system.
+Division of work </br>
+Kamil: passenger artwork, queue system, elevator function, myOnPaint function. </br>
+Sebastian: double buffer, buttons, drawings, text, Paint function, weight system. </br>
